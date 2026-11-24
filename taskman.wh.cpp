@@ -4,6 +4,7 @@
 // @description     Alt+Q quit, display scaling with the mouse wheel, pinned program windows, mini task manager, opacity bar, Shift+Space screenshot and a shortcut help (Ctrl+Num 0)
 // @version         1.0.0
 // @author          Eikka
+// @github          https://github.com/reset-eikka
 // @include         windhawk.exe
 // @compilerOptions -lpdh -lshell32 -lgdi32 -luser32 -lole32 -luuid -ladvapi32 -ldwmapi -lwtsapi32
 // ==/WindhawkMod==
